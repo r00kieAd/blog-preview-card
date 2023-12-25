@@ -53,6 +53,10 @@ body {
     color: black;
 }
 
+#headlink:active {
+    color: black;
+}
+
 .content {
     margin: 10px 0;
     color: hsl(0, 0%, 50%);
