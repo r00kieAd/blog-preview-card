@@ -26,15 +26,15 @@
 
 ## :dart: About ##
 
-This is a simple blog preview card website to illustrate the content of a particular subject. <a href="#">Visit Website</a>
+This is a simple blog preview card website to illustrate the content of a particular subject. <a href="https://r00kiead.github.io/blog-preview-card/">Visit Website</a>
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [HTML5](https://expo.io/)
-- [CSS3](https://nodejs.org/en/)
-- [Visual Studio Code](https://pt-br.reactjs.org/)
+- [HTML5](https://www.w3schools.com/html/default.asp)
+- [CSS3](https://www.w3schools.com/css/default.asp)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## :memo: License ##
 
