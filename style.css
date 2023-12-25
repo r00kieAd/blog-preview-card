@@ -49,6 +49,10 @@ body {
     text-decoration: none;
 }
 
+#headlink:visited {
+    color: black;
+}
+
 .content {
     margin: 10px 0;
     color: hsl(0, 0%, 50%);
@@ -91,5 +95,5 @@ body {
 }
 
 a:visited {
-    color: inherit;
+    color: black;
 }
